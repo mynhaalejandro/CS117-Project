@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans');
+
+body{
+	background: #0e2f79; /*dark blue*/
+	margin: 0px;
+	border: 0px;
+}
+h3 {
+	text-transform: uppercase;
+	font-family: 'Ubuntu Condensed', sans-serif;
+}
+#header{
+	padding-top: 10px;
+	width: auto;
+	height: 120px;
+	background: #10368b; /*blue*/
+	color: white;
+}
+#sidemenu{
+	float: left;
+	width: 300px;
+	background: #10368b; /*blue*/
+	color: white;
+	
+}
+#data{
+	width: auto;
+	background:#0e2f79; /*dark blue*/
+	color: black;
+	padding-left:330px;
+}
+#head_img{
+	background:white;
+	border-radius:50px;
+}
+#sidemenu.ul li{
+	display: inline-block;
+	padding-bottom: 10px;
+	
+}
+li{
+	font-family: 'Ubuntu Condensed', sans-serif;
+	padding-bottom: 30px;
+	border-bottom: 3px solid grey;
+
+}
+li:hover {
+	background: #061e53; /*darker blue*/
+	color: white;
+	padding-left:10px;
+    -moz-transition: padding-left .3s ease-in;
+    -o-transition: padding-left  .3s ease-in;
+    -webkit-transition: padding-left  .3s ease-in;
+    transition: padding-left  .3s ease-in;
+}
+a{
+	text-decoration:none;
+	color:white; /* manage*/
+}
+#back{
+	width: 50px;
+	height: 50px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+#back:hover{
+	box-shadow: 0 4px 8px 0 white, 0 6px 20px 0 white;
+}
+#back{
+	width: 50px;
+	height: 50px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+#back:hover{
+	box-shadow: 0 4px 8px 0 white, 0 6px 20px 0 white;
+}
+img{
+	width: 70px;
+	height: 70px;
+	}

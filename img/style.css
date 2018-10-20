@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans');/*--- Paragraph Font --*/
+@import url('https://fonts.googleapis.com/css?family=Ubuntu+Condensed'); /*--- Headings Font --*/
+
+* {
+	margin: 0;
+	border: 0;
+	padding: 0;
+}
+body{
+	background: #ecdc2f;
+	
+	font-family: 'Ubuntu Condensed', sans-serif;
+	line-height: 190%;
+	text-align:center;
+	text-transform: uppercase;
+}
+h3 {
+	font-size: 190%;
+	padding: 5% 0;
+}
+h4{
+	font-size: 170%;
+	padding:5% 0;
+}
+h5{
+	font-size: 120%;
+	padding:#959595;
+}
+img{
+	max-width: 100%;
+}
+header{
+	background: #10368B;
+	height: 86px;
+	position: fixed;
+	z-index: 1000;
+	width: 100%;
+	opacity: .9;
+}
