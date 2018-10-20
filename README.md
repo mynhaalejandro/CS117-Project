@@ -1,2 +1,2 @@
-# CS117-Project
-Final Project for CS 117 Web Development and Programming
+# Online Assessment for Sinait National High School
+
